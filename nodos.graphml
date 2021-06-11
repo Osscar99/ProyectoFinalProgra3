@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="&lt;Element doctype at 0x2ca4dde2a80&gt;"/>
+<node id="&lt;Element root at 0x2ca4dde28c0&gt;"/>
+<node id="&lt;Element html at 0x2ca4dde2940&gt;"/>
+<node id="&lt;Element head at 0x2ca4dde2dc0&gt;"/>
+<node id="&lt;Element meta at 0x2ca4dde2f80&gt;"/>
+<node id="&lt;Element meta at 0x2ca4dde2fc0&gt;"/>
+<node id="&lt;Element meta at 0x2ca4dde5140&gt;"/>
+<node id="&lt;Element title at 0x2ca4dde5280&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde5500&gt;"/>
+<node id="&lt;Element body at 0x2ca4dde2e00&gt;"/>
+<node id="&lt;Element table at 0x2ca4dde5700&gt;"/>
+<node id="&lt;Element thead at 0x2ca4dde5880&gt;"/>
+<node id="&lt;Element tr at 0x2ca4dde5a40&gt;"/>
+<node id="&lt;Element td at 0x2ca4dde5bc0&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde5d80&gt;"/>
+<node id="&lt;Element td at 0x2ca4dde5c00&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde5fc0&gt;"/>
+<node id="&lt;Element tbody at 0x2ca4dde58c0&gt;"/>
+<node id="&lt;Element tr at 0x2ca4dde81c0&gt;"/>
+<node id="&lt;Element td at 0x2ca4dde8380&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde8540&gt;"/>
+<node id="&lt;Element td at 0x2ca4dde83c0&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde8780&gt;"/>
+<node id="&lt;Element tr at 0x2ca4dde8200&gt;"/>
+<node id="&lt;Element td at 0x2ca4dde8980&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde8b40&gt;"/>
+<node id="&lt;Element td at 0x2ca4dde89c0&gt;"/>
+<node id="&lt;Element text at 0x2ca4dde8d80&gt;"/>
+<edge source="&lt;Element root at 0x2ca4dde28c0&gt;" target="&lt;Element doctype at 0x2ca4dde2a80&gt;"/>
+<edge source="&lt;Element root at 0x2ca4dde28c0&gt;" target="&lt;Element html at 0x2ca4dde2940&gt;"/>
+<edge source="&lt;Element html at 0x2ca4dde2940&gt;" target="&lt;Element head at 0x2ca4dde2dc0&gt;"/>
+<edge source="&lt;Element html at 0x2ca4dde2940&gt;" target="&lt;Element body at 0x2ca4dde2e00&gt;"/>
+<edge source="&lt;Element head at 0x2ca4dde2dc0&gt;" target="&lt;Element meta at 0x2ca4dde2f80&gt;"/>
+<edge source="&lt;Element head at 0x2ca4dde2dc0&gt;" target="&lt;Element meta at 0x2ca4dde2fc0&gt;"/>
+<edge source="&lt;Element head at 0x2ca4dde2dc0&gt;" target="&lt;Element meta at 0x2ca4dde5140&gt;"/>
+<edge source="&lt;Element head at 0x2ca4dde2dc0&gt;" target="&lt;Element title at 0x2ca4dde5280&gt;"/>
+<edge source="&lt;Element title at 0x2ca4dde5280&gt;" target="&lt;Element text at 0x2ca4dde5500&gt;"/>
+<edge source="&lt;Element body at 0x2ca4dde2e00&gt;" target="&lt;Element table at 0x2ca4dde5700&gt;"/>
+<edge source="&lt;Element table at 0x2ca4dde5700&gt;" target="&lt;Element thead at 0x2ca4dde5880&gt;"/>
+<edge source="&lt;Element table at 0x2ca4dde5700&gt;" target="&lt;Element tbody at 0x2ca4dde58c0&gt;"/>
+<edge source="&lt;Element thead at 0x2ca4dde5880&gt;" target="&lt;Element tr at 0x2ca4dde5a40&gt;"/>
+<edge source="&lt;Element tr at 0x2ca4dde5a40&gt;" target="&lt;Element td at 0x2ca4dde5bc0&gt;"/>
+<edge source="&lt;Element tr at 0x2ca4dde5a40&gt;" target="&lt;Element td at 0x2ca4dde5c00&gt;"/>
+<edge source="&lt;Element td at 0x2ca4dde5bc0&gt;" target="&lt;Element text at 0x2ca4dde5d80&gt;"/>
+<edge source="&lt;Element td at 0x2ca4dde5c00&gt;" target="&lt;Element text at 0x2ca4dde5fc0&gt;"/>
+<edge source="&lt;Element tbody at 0x2ca4dde58c0&gt;" target="&lt;Element tr at 0x2ca4dde81c0&gt;"/>
+<edge source="&lt;Element tbody at 0x2ca4dde58c0&gt;" target="&lt;Element tr at 0x2ca4dde8200&gt;"/>
+<edge source="&lt;Element tr at 0x2ca4dde81c0&gt;" target="&lt;Element td at 0x2ca4dde8380&gt;"/>
+<edge source="&lt;Element tr at 0x2ca4dde81c0&gt;" target="&lt;Element td at 0x2ca4dde83c0&gt;"/>
+<edge source="&lt;Element td at 0x2ca4dde8380&gt;" target="&lt;Element text at 0x2ca4dde8540&gt;"/>
+<edge source="&lt;Element td at 0x2ca4dde83c0&gt;" target="&lt;Element text at 0x2ca4dde8780&gt;"/>
+<edge source="&lt;Element tr at 0x2ca4dde8200&gt;" target="&lt;Element td at 0x2ca4dde8980&gt;"/>
+<edge source="&lt;Element tr at 0x2ca4dde8200&gt;" target="&lt;Element td at 0x2ca4dde89c0&gt;"/>
+<edge source="&lt;Element td at 0x2ca4dde8980&gt;" target="&lt;Element text at 0x2ca4dde8b40&gt;"/>
+<edge source="&lt;Element td at 0x2ca4dde89c0&gt;" target="&lt;Element text at 0x2ca4dde8d80&gt;"/>
+</graph></graphml>
